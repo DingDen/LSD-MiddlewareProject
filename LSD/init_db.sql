@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS dist_db;
+USE dist_db;
+
+CREATE TABLE IF NOT EXISTS teste (
+    id INT PRIMARY KEY
+);
